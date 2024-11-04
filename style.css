@@ -12,6 +12,12 @@ body, html {
     overflow: hidden;
 }
 
+h1 , h2 , h3 , h4 {
+    color: #ff2e6d ;
+
+
+}
+
 #pinkboard {
     position: absolute;
     width: 100%;
